@@ -77,11 +77,19 @@ amazon-sales-analysis-postgresql/
 │
 ├── README.md
 │
+├── data/
+│   └── README.md
+│
 ├── sql/
-│   └── amazon_sales_analysis.sql
+│   ├── 01_create_schema_table.sql
+│   ├── 02_data_import.sql
+│   └── 03_sales_analysis.sql
 │
 ├── screenshots/
-│   └── project_results.png
+│   ├── database_table.png
+│   ├── sql_queries.png
+│   ├── sales_results.png
+│   └── monthly_revenue.png
 │
 └── insights/
     └── business_insights.md
