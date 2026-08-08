@@ -11,6 +11,7 @@ SKU performance, B2B sales, and fulfilment methods.
 - PostgreSQL
 - SQL
 - pgAdmin
+- DBeaver
 - GitHub
 
 ## 🔍 Business Questions
